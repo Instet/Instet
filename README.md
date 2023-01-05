@@ -1,16 +1,29 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**Instet/Instet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Магомедов Руслан, разработчик мобильных приложенй на iOS (iOS - Developer)
 
-Here are some ideas to get you started:
+#### Вот что я знаю и умею:
+- Swift
+- OOP, SOLID
+- UIKit, AutoLayout
+- CoreData, Realm, FileManager, UserDefaults
+- URLSession, JSON Parse, Firebase, Postman
+- GCD, RunLoop, Timer
+- Git
+- CocoaPods, SPM
+- Keychain
+- MVC, MVP, MVP+C, MVVM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 В настоящее время изучаю SwiftUI, SpriteKit
+
+#### Мои контакты:
+
+
+&#9993;: rasl163@gmail.com
+
+<img src="https://user-images.githubusercontent.com/97151324/210815369-1e47baa9-450d-46f2-a1ad-398e42b12766.png" height="25" align="center"/>: https://t.me/instetRU
+
+#
+![GitHub metrics](https://metrics.lecoq.io/Instet)  
+
+![Profile views](https://gpvc.arturio.dev/Instet) 
