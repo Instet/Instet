@@ -34,6 +34,4 @@
 >#### [Свидетельство Нетологии](https://netology.ru/backend/api/user/programs/23043/pdf_certificate)
 
 #
-![GitHub metrics](https://metrics.lecoq.io/Instet)  
 
-![Profile views](https://gpvc.arturio.dev/Instet) 
